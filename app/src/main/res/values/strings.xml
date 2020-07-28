@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="rs_1449">Rs.1449</string>
+    <string name="buy_now">Buy Now</string>
+</resources>
